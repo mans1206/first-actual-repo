@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "23a7ca08-c0d8-41b0-8193-02141be378b5": {
+      "ProjectGuid": "23a7ca08-c0d8-41b0-8193-02141be378b5",
+      "DisplayName": "Крестики-нолики",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
